@@ -1,0 +1,16 @@
+{
+    "name": "ibarrajo/fastimage",
+    "description": "A simple library to get image sizes quickly",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Moor",
+            "email": "tom.moor@gmail.com"
+        },
+        {
+             "name": "Josue Ibarra",
+             "email": "josue@elninja.com"
+        }
+    ],
+    "require": {}
+}
